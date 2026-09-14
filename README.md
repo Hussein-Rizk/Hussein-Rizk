@@ -2,10 +2,10 @@
 <h3 align="center">AI Student | Data Science | Mechatronics | Embedded Systems</h3>
 
 <p align="center">
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:hussein.ahmed.rizk@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/hussein-rizk/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Hussein-Rizk">
