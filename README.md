@@ -17,10 +17,9 @@
 
 ## 👨‍💻 About Me
 
-- MSc Artificial Intelligence student at FAU Erlangen–Nürnberg
-- Background in Mechatronics Engineering
-- Interested in AI, Data Science, Embedded Systems, Computer Vision, and Automation
-- Building and documenting my academic and engineering projects on GitHub
+- MSc Autonomy Technologies student at FAU Erlangen–Nürnberg
+- Bsc in Mechatronics Engineering
+- Interested in Robotics, AI, , Control & Automation
 
 ---
 
@@ -70,5 +69,5 @@
 
 ## 📫 Contact
 
-- Email: yourmail@example.com
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
+- Email: hussein.ahmed.rizk@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hussein-rizk/
