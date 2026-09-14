@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hussein Rizk 👋</h1>
-<h3 align="center">AI Student | Data Science | Mechatronics | Embedded Systems</h3>
+<h3 align="center">Robotics | AI | Mechatronics | Control & Automation</h3>
 
 <p align="center">
   <a href="mailto:hussein.ahmed.rizk@gmail.com">
