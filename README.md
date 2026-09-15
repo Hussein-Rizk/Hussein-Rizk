@@ -89,17 +89,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-- Smart Home Prototype – Arduino-based automation with keypad, sensors, LCD, and actuators
-- Third Eye for the Blind – Assistive glove using ultrasonic sensing, buzzer, and vibration feedback
-- 3-Speed Gearbox Mechanism – Mechanical design and CAD documentation
-- Speed Accelerator – Autodesk Inventor gearbox / belt-drive system
-- Carty – Smart Cart for Disabled and Elderly Assistance
-- VAWT Graduation Project – Vertical Axis Wind Turbine analysis and design
-
----
-
 ## 📫 Contact
 
 - Email: hussein.ahmed.rizk@gmail.com
