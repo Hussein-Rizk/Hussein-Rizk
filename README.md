@@ -17,8 +17,8 @@
 
 ## 👨‍💻 About Me
 
-- MSc Autonomy Technologies student at FAU Erlangen–Nürnberg
-- Bsc in Mechatronics Engineering
+- MSc. Autonomy Technologies student at FAU Erlangen–Nürnberg
+- BSc. in Mechatronics Engineering
 - Interested in Robotics, AI, , Control & Automation
 
 ---
